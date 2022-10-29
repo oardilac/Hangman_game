@@ -7,10 +7,9 @@
 ## Table Of Contents:
  - [Description](#description)
  - [Installation](#installation)
- - [Usage](#basic-usage)
 
 ## Description
-This application allows to create, update, list, and delete clients from a csv file.
+It is the typical hangman game made in python 3, which allows you to guess the word, and can be used in different ways, such as entertainment, educational, etc...
 
 ## Installation
 1. Clone or download de repository:
