@@ -7,6 +7,7 @@
 ## Table Of Contents:
  - [Description](#description)
  - [Installation](#installation)
+ - [Contributing](#contributing)
 
 ## Description
 It is the typical hangman game made in python 3, which allows you to guess the word, and can be used in different ways, such as entertainment, educational, etc...
@@ -28,3 +29,6 @@ It is the typical hangman game made in python 3, which allows you to guess the w
     ```
     $ py hangman.py
     ```
+
+## Contributing
+Pull requests are welcome! For major refactors, please open an issue first to discuss what you would like to improve. Feel free to create a fork of this repository and use the code for any noncommercial purposes.
