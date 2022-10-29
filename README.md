@@ -1,5 +1,7 @@
 # Hangman_game
-> Hangman
+> Python Hangman
+![image](https://user-images.githubusercontent.com/70169625/198852457-7bbb37cc-72af-41f3-9aa9-cec1e939b5be.png)
+
 
 ## Table Of Contents:
  - [Description](#description)
@@ -12,11 +14,17 @@ This application allows to create, update, list, and delete clients from a csv f
 ## Installation
 1. Clone or download de repository:
     ```
+    $ git init
     $ git clone https://github.com/oardilac/Hangman_game.git
     ```
 
 2. Open the console inside the project directory and create a virtual environment.
     ```bash
     $ py -m venv venv
-    $ source venv/bin/activate
+    $ source venv/Scripts/activate
+    ```
+
+3. Run the program
+    ```
+    $ py hangman.py
     ```
